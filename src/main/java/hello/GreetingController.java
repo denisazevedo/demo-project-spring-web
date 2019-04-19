@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 public class GreetingController {
 
     /**
-     * Greeting method
+     * Greeting method.
      * @param name name to greet
      * @param model model to bind the attribute
      * @return string
