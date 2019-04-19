@@ -7,10 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Application's main class.
  */
 @SpringBootApplication
-public final class Application {
-
-    /** Private constructor for checkstyle */
-    private Application() {}
+public class Application {
 
     /**
      * Main method.
